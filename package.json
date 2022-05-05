@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "https://6270606b6a36d4d62c187306.mockapi.io/",
-  "homepage": "https://kiradpro.github.io/ProjectZespolowy/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.4",
+    "core-js": "^3.22.4",
     "gh-pages": "^3.2.3",
     "macro-css": "^1.0.4",
     "node-sass": "^4.14.1",
